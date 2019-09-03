@@ -1,0 +1,9 @@
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.deps.json
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.dll
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.csproj.CoreCompileInputs.cache
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.AssemblyInfoInputs.cache
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.AssemblyInfo.cs
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.dll
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+F:\ASP.NET\OcelotApiGetWay\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.csprojAssemblyReference.cache

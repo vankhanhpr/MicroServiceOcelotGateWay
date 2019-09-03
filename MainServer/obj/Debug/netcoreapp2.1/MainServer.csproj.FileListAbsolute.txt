@@ -1,0 +1,17 @@
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\MainServer.deps.json
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.json
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\MainServer.runtimeconfig.dev.json
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\MainServer.dll
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\MainServer.pdb
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.csprojAssemblyReference.cache
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CoreCompileInputs.cache
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.RazorAssemblyInfo.cache
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.RazorAssemblyInfo.cs
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfoInputs.cache
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.AssemblyInfo.cs
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.RazorTargetAssemblyInfo.cache
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.dll
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.pdb
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\ModelClassLibrary.dll
+F:\ASP.NET\OcelotApiGetWay\MainServer\bin\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+F:\ASP.NET\OcelotApiGetWay\MainServer\obj\Debug\netcoreapp2.1\MainServer.csproj.CopyComplete
